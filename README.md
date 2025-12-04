@@ -59,8 +59,7 @@ These visualizations provide deep understanding of traffic quality, not just vol
 | File | Description |
 |------|-------------|
 | `Website_Performance_Analysis.ipynb` | Full analysis & visualizations |
-| `data/website_traffic.csv` | Raw dataset used for analysis |
-| `visuals/` | Exported graphs for the report |
+| `web.csv` | Raw dataset used for analysis |
 | `requirements.txt` | Dependencies to run the project |
 
 ---
